@@ -8,8 +8,8 @@ composed  of  stars  and  spaces  and  framed  by  other  ASCII  characters.  Fo
  
 <p>$ ./proj1 <br />4 8 -2 0 2 5 -2 0 1.42 0 -0.28 5</p>
 <p>+--------+ <br />
-	|&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;|<br />
-	|&nbsp;&nbsp;***&nbsp;&nbsp;&nbsp;|<br />
+	|&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />
+	|&nbsp;&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;|<br />
 	|&nbsp;*****&nbsp;&nbsp; |<br />
 	|*******&nbsp;|<br />
 	+--------+</p>
