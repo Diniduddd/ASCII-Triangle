@@ -6,15 +6,13 @@ projIskel.c) which will input the co-ordinates of a triangle and output a pictur
 composed  of  stars  and  spaces  and  framed  by  other  ASCII  characters.  For  example,  if  your 
 (compiled) program is called projI, its input and output might look like this: 
  
-$ ./proj1 
-4 8 -2 0 2 5 -2 0 1.42 0 -0.28 5
-
-+--------+ 
-|   *    |
-|  ***   |
-| *****  |
-|******* |
-+--------+ 
+<p>$ ./proj1 <br />4 8 -2 0 2 5 -2 0 1.42 0 -0.28 5</p>
+<p>+--------+ <br />
+	| &nbsp; &nbsp; * &nbsp; &nbsp;&nbsp;&nbsp; |<br />
+	| &nbsp; *** &nbsp; &nbsp;&nbsp;|<br />
+	| ***** &nbsp; |<br />
+	|*******|<br />
+	+--------+</p>
  
 This  program  begins  by  reading  two  integers  and  ten  floating-point  numbers  from 
 standard input. We will refer to these inputs by the following names: 
